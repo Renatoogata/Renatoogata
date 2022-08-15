@@ -1,8 +1,10 @@
 <h1 align="center">Olá, eu sou Renato Ide Ogata</h1><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatoogata&theme=dark)](https://github.com/Renatoogata/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatoogata&layout=compact&theme=dark&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Renatoogata">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renatoogata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatoogata&layout=compact&langs_count=3&theme=dark"/>
+</div>
 
 - 🌱 Atualmente estou aprendendo **TypeScript**</p>
 - 📫 contato: **renatoogata95@gmail.com**
-
