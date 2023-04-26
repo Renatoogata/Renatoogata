@@ -3,8 +3,13 @@
 - 🌱 I'm currently learning **TypeScript**
 - 📗 I'm working on a personal project
 - 📫 contact: **renatoogata95@gmail.com**
+
+<br>
+
+##
   
 <div>
+  <br>
   <a 
      href="mailto:renatoogata95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
@@ -13,9 +18,7 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
+<div>
   <a href="https://github.com/Renatoogata">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renatoogata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatoogata&layout=compact&langs_count=3&theme=dark"/>
